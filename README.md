@@ -3,21 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splch" alt="splch" /></a> </p>
 
-- 🔭 I’m currently working on [Quantum Tales](github.com/splch/quantum-tales)
+- 🔭 I’m currently working on [Quantum Tales](https://github.com/splch/quantum-tales)
 
 - 🌱 I’m currently learning **Quantum Computation and Information**
 
-- ⚡ I'm distributing [Chrome Extensions](chrome.google.com/webstore/search/splch?_category=extensions)
+- ⚡ I'm distributing [Chrome Extensions](https://chrome.google.com/webstore/search/splch?_category=extensions)
 
-- 👨‍💻 All of my projects are available at [github.com/splch](github.com/splch)
+- 👨‍💻 All of my projects are available at [github.com/splch](https://github.com/splch)
 
-- 📝 I regularly write articles on [splch.dev/#Blog](splch.dev/#Blog)
+- 📝 I regularly write articles on [splch.dev/#Blog](https://splch.dev/#Blog)
 
 - 💬 Ask me about **python, pytorch, chrome extensions**
 
-- 📫 How to reach me **spencer@duck.com**
+- 📫 How to reach me [**spencer@duck.com**](mailto:spencer@duck.com)
 
-- 📄 Know about my experiences [splch.dev/data/resume/resume.pdf](splch.dev/data/resume/resume.pdf)
+- 📄 Know about my experiences [splch.dev/data/resume/resume.pdf](https://splch.dev/data/resume/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 
 - ⚡ I'm distributing [Chrome Extensions](https://chrome.google.com/webstore/search/splch?_category=extensions)
 
-- 👨‍💻 All of my projects are available at [github.com/splch](https://github.com/splch)
+- 👨‍💻 All of my projects are available at [github.com/splch?tab=repositories](https://github.com/splch?tab=repositories)
 
 - 📝 I regularly write articles on [splch.dev/#Blog](https://splch.dev/#Blog)
 

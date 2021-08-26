@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python, pytorch, chrome extensions**
 
-- 📫 How to reach me [**spencer@duck.com**](mailto:spencer@duck.com)
+- 📫 How to reach me [**spence@duck.com**](mailto:spence@duck.com)
 
 - 📄 Know about my experiences [splch.net/data/resume/resume.pdf](https://splch.net/data/resume/resume.pdf)
 

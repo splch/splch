@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [github.com/splch?tab=repositories](https://github.com/splch?tab=repositories)
 
-- 📝 I regularly write articles on [splch.net/#Blog](https://splch.net/#Blog)
+- 📝 I regularly write articles on [slc.is/#Blog](https://slc.is/#Blog)
 
 - 💬 Ask me about **python, pytorch, chrome extensions**
 
 - 📫 How to reach me [**spence@duck.com**](mailto:spence@duck.com)
 
-- 📄 Know about my experiences [splch.net/data/resume/resume.pdf](https://splch.net/data/resume/resume.pdf)
+- 📄 Know about my experiences [slc.is/data/resume/resume.pdf](https://slc.is/data/resume/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

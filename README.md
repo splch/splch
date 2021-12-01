@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=splch" alt="splch" /></a> </p>
 
-- 🔭 I’m currently working on [Quantum Tales](https://github.com/splch/quantum-tales)
+- 🔭 I’m currently working on [Quantum Tales](https://quantumtales.org)
 
 - 🌱 I’m currently learning **Quantum Computation and Information**
 

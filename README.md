@@ -11,5 +11,4 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=splch&show_icons=true&locale=en&layout=compact" alt="splch" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=splch&show_icons=true&locale=en" alt="splch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=splch&show_icons=true&locale=en&theme=tokyonight" alt="splch" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=splch&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="splch" /></p>

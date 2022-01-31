@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Quantum Tales](https://quantumtales.org)
 
-- 📝 I regularly write articles on [slc.is/#Blog](https://slc.is/#Blog)
+- 📝 I regularly write articles on [slc.is/#Archive](https://slc.is/#Archive)
 
 - 📫 Email me at [**spence@duck.com**](mailto:spence@duck.com)
 

@@ -1,6 +1,6 @@
 - ⚛️ Writing [Quantum Tales](https://quantumtales.org)
 
-- 📝 Publishing articles on [slc.is/#Archive](https://slc.is/#Archive)
+- 📝 Publishing articles on [slc.is/posts.html](https://slc.is/posts.html)
 
 - 📫 Email me at [**spence@duck.com**](mailto:spence@duck.com)
 
